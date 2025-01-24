@@ -1,0 +1,39 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "address": "123 Elm Street",
+        "city": "Springfield",
+        "state": "Illinois",
+        "zipcode": "62701",
+        "phone": "2175551234",
+        "ssn": "123-45-6789",
+        "username": "john",
+        "password": "JohnDoe@2025"
+    },
+    {
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "address": "456 Oak Avenue",
+        "city": "Riverside",
+        "state": "California",
+        "zipcode": "92501",
+        "phone": "9515559876",
+        "ssn": "987-65-4321",
+        "username": "jane",
+        "password": "JaneSmith@2025"
+    },
+    {
+        "firstname": "Alex",
+        "lastname": "Taylor",
+        "address": "789 Maple Drive",
+        "city": "Brooklyn",
+        "state": "New York",
+        "zipcode": "11201",
+        "phone": "7185552468",
+        "ssn": "246-80-1357",
+        "username": "alex",
+        "password": "AlexTaylor@2025"
+    }
+
+]
